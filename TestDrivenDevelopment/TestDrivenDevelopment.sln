@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geomtery", "Geomtery\Geomte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.Tests", "Geometry.Tests\Geometry.Tests.csproj", "{30587CAD-AA12-4B6E-8B4F-D1E0615F578E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeWebApi", "SomeWebApi\SomeWebApi.csproj", "{566D955A-FEE9-4ED3-B461-0123CDAE4759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparePartsTests", "SparePartsTests\SparePartsTests.csproj", "{FE1E06BE-D91B-442E-92E3-33902DE2081D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{30587CAD-AA12-4B6E-8B4F-D1E0615F578E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30587CAD-AA12-4B6E-8B4F-D1E0615F578E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30587CAD-AA12-4B6E-8B4F-D1E0615F578E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566D955A-FEE9-4ED3-B461-0123CDAE4759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566D955A-FEE9-4ED3-B461-0123CDAE4759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566D955A-FEE9-4ED3-B461-0123CDAE4759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566D955A-FEE9-4ED3-B461-0123CDAE4759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1E06BE-D91B-442E-92E3-33902DE2081D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1E06BE-D91B-442E-92E3-33902DE2081D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1E06BE-D91B-442E-92E3-33902DE2081D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1E06BE-D91B-442E-92E3-33902DE2081D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
